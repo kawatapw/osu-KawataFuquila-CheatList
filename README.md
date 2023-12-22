@@ -37,6 +37,8 @@ Before downloading and using these clients, Please take a look at the usage rule
 ### 🎯 Abypass <a name="abypass"></a>
 _Created by Chewy/Pythr, Developed by Aochi._
 
+Instructions: Extract to it's own folder and run updater.
+
 Download Links: 
 - [**Main Link**](https://abypass.fumo.lol/updater)
 - [**Mirror 1**](https://cute.cat-girls.club/u/07IikF.zip)
